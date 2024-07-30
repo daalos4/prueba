@@ -1,4 +1,5 @@
-# Heroes y heroes de marvel 
+
+# Heroes y villanos
 
 * Iron Man
 * Spiderman
@@ -8,3 +9,5 @@
 * Mujer Maravilla
 * Linterna Verde
 * Robin
+* Joker
+* Espanta pájaros
